@@ -90,7 +90,7 @@ public class Truck {
             if (trucks.get(truckId).getTruckState()==TruckState.BASE){
                 trucks.get(truckId).setTruckState(TruckState.ROUTE);
                 drivers.get(driverId).setDriverState(DriverState.BUSY);
-                System.out.println("Car in the route");
+                System.out.println("Car in t");
             }
             if (trucks.get(truckId).getDrivers().getDriverState()==DriverState.FREE) {
                 trucks.get(truckId).setTruckState(TruckState.ROUTE);
