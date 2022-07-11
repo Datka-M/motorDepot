@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Speed",
+    "truckState": "BASE"
+  },
+  {
+    "id": 2,
+    "name": "Volvo",
+    "truckState": "BASE"
+  },
+  {
+    "id": 3,
+    "name": " Prius",
+    "truckState": "BASE"
+  }
+]
